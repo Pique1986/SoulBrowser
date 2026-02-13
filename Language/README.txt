@@ -1,6 +1,6 @@
 ⭐ Language
 
-Reference 1 : values-ko  Korean
+Reference 1 : values-th  Thai
 Reference 2 : values     English
 
 values-ar        Arabic
